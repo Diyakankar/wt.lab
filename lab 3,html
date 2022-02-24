@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> COLOURFUL TABLE CONAIAIN DETAILS</title>
+<style>
+body{
+background:gray;
+}
+table{
+width:800px;
+margin:auto;
+table-layout:fixed;
+text-align:center;
+margin-top:50px;
+font-family:arial;
+color:#fff;
+}
+
+table, th, td{
+border:1px dotted white;
+border-collapse:collapse;
+padding:20px;
+fornt-size:20px;
+}
+th{
+background: purple;
+padding:30px;
+text-transform:uppercase;
+}
+
+</style>
+</head>
+<body>
+<h1>STAFF DETAILS OF COMPANY</h1>
+<b>"Right now, this is just a job. If I advance any higher in this company, then this would be my career. And, well, if this were my career? I’d have to throw myself in front of a train." — Jim Halpert, "The Office," Season 1, "Health Care"
+</b>
+<a href="C:\Users\Pc\Desktop\compny.jpg">img</a>
+<table>
+<tr>
+<th>Name</th>
+<th>Address</th>
+<th>Contact</th>
+<th>Post</th>
+<th>Salary</th>
+</tr>
+<tr>
+<td>Anshu</td>
+<td>New York</td>
+<td>857469</td>
+<td>Manager</td>
+<td>$2000</td>
+</tr>
+<tr>
+<td>Nisha</td>
+<td>New Road</td>
+<td>857486</td>
+<td>co-Manager</td>
+<td>$5000</td>
+</tr>
+<tr>
+<td>Ishu</td>
+<td>Shivaji Marg</td>
+<td>857345</td>
+<td>Director</td>
+<td>$7000</td>
+</tr>
+<tr>
+<td>Mohan</td>
+<td>Bypass</td>
+<td>889469</td>
+<td>Subdirector</td>
+<td>$8000</td>
+</tr>
+<tr>
+<td>Rina</td>
+<td>Pritampur</td>
+<td>857769</td>
+<td>HOD</td>
+<td>$10000</td>
+</tr>
